@@ -27,8 +27,8 @@ driver.find_element_by_xpath(XPath_dic["我已认真阅读"]).click()
 time.sleep(10) # 等到10秒
 driver.find_element_by_xpath(XPath_dic["开始填报"]).click()
 time.sleep(1)
-driver.find_element_by_xpath(XPath_dic["学号"]).send_keys('203140822')
-driver.find_element_by_xpath(XPath_dic["密码"]).send_keys('fashion777')
+driver.find_element_by_xpath(XPath_dic["学号"]).send_keys('你的学号')
+driver.find_element_by_xpath(XPath_dic["密码"]).send_keys('你的密码')
 
 enter = 0
 while enter == 0:
