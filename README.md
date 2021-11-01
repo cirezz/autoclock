@@ -3,4 +3,4 @@
 
 免责申明：本项目仅做免费的学术交流使用。
 
-thanks for sta r~
+thanks for star ~
